@@ -88,33 +88,415 @@
                 "Toxic",
                 "Vine Whip"
             ]
+        },
+        {
+            "no": 3,
+            "species": "Venusaur",
+            "type":
+            [
+                "Grass",
+                "Poison"
+            ],
+            "base":
+            {
+                "HP": 80,
+                "Attack": 82,
+                "Defense": 83,
+                "SpAtk": 100,
+                "SpDef": 100,
+                "Speed": 80
+            },
+            "movepool":
+            [
+                "Bide",
+                "Body Slam",
+                "Cut",
+                "Double-Edge",
+                "Double Team",
+                "Growl",
+                "Growth",
+                "Hyper Beam",
+                "Leech Seed",
+                "Mega Drain",
+                "Mimic",
+                "Poison Powder",
+                "Rage",
+                "Razor Leaf",
+                "Reflect",
+                "Rest",
+                "Sleep Powder",
+                "Solar Beam",
+                "Substitute",
+                "Swords Dance",
+                "Tackle",
+                "Take Down",
+                "Toxic",
+                "Vine Whip"
+            ]
+        },
+        {
+            "no": 4,
+            "species": "Charmander",
+            "type": 
+            [
+                "Fire"
+            ],
+            "base":
+            {
+                "HP": 39,
+                "Attack": 52,
+                "Defense": 43,
+                "SpAtk": 50,
+                "SpDef": 50,
+                "Speed": 65
+            },
+            "movepool":
+            [
+                "Bide",
+                "Body Slam",
+                "Counter",
+                "Cut",
+                "Dig",
+                "Double-Edge",
+                "Double Team",
+                "Dragon Rage",
+                "Ember",
+                "Fire Blast",
+                "Fire Spin",
+                "Flamethrower",
+                "Growl",
+                "Leer",
+                "Mega Kick",
+                "Mega Punch",
+                "Mimic",
+                "Rage",
+                "Reflect",
+                "Rest",
+                "Scratch",
+                "Seismic Toss",
+                "Skull Bash",
+                "Slash",
+                "Strength",
+                "Submission",
+                "Substitute",
+                "Swift",
+                "Swords Dance",
+                "Take Down",
+                "Toxic"
+            ]
+        },
+        {
+            "no": 5,
+            "species": "Charmeleon",
+            "type":
+            [
+                "Fire"
+            ],
+            "base":
+            {
+                "HP": 58,
+                "Attack": 64,
+                "Defense": 58,
+                "SpAtk": 65,
+                "SpDef": 65,
+                "Speed": 80
+            },
+            "movepool":
+            [
+                "Bide",
+                "Body Slam",
+                "Counter",
+                "Cut",
+                "Dig",
+                "Double-Edge",
+                "Double Team",
+                "Dragon Rage",
+                "Ember",
+                "Fire Blast",
+                "Fire Spin",
+                "Flamethrower",
+                "Growl",
+                "Leer",
+                "Mega Kick",
+                "Mega Punch",
+                "Mimic",
+                "Rage",
+                "Reflect",
+                "Rest",
+                "Scratch",
+                "Seismic Toss",
+                "Skull Bash",
+                "Slash",
+                "Strength",
+                "Submission",
+                "Substitute",
+                "Swift",
+                "Swords Dance",
+                "Take Down",
+                "Toxic"
+            ]
+        },
+        {
+            "no": 6,
+            "species": "Charizard",
+            "type":
+            [
+                "Fire",
+                "Flying"
+            ],
+            "base":
+            {
+                "HP": 78,
+                "Attack": 84,
+                "Defense": 78,
+                "SpAtk": 85,
+                "SpDef": 85,
+                "Speed": 100
+            },
+            "movepool":
+            [
+                "Bide",
+                "Body Slam",
+                "Counter",
+                "Cut",
+                "Dig",
+                "Double-Edge",
+                "Double Team",
+                "Dragon Rage",
+                "Earthquake",
+                "Ember",
+                "Fire Blast",
+                "Fire Spin",
+                "Fissure",
+                "Flamethrower",
+                "Fly",
+                "Growl",
+                "Hyper Beam",
+                "Leer",
+                "Mega Kick",
+                "Mega Punch",
+                "Mimic",
+                "Rage",
+                "Reflect",
+                "Rest",
+                "Scratch",
+                "Seismic Toss",
+                "Skull Bash",
+                "Slash",
+                "Strength",
+                "Submission",
+                "Substitute",
+                "Swift",
+                "Swords Dance",
+                "Take Down",
+                "Toxic"
+            ]
+        },
+        {
+            "no": 7,
+            "species": "Squirtle",
+            "type":
+            [
+                "Water"
+            ],
+            "base":
+            {
+                "HP": 44,
+                "Attack": 48,
+                "Defense": 65,
+                "SpAtk": 50,
+                "SpDef": 50,
+                "Speed": 43
+            },
+            "movepool":
+            [
+                "Bide",
+                "Bite",
+                "Blizzard",
+                "Body Slam",
+                "Bubble",
+                "Bubble Beam",
+                "Counter",
+                "Dig",
+                "Double-Edge",
+                "Double Team",
+                "Hydro Pump",
+                "Ice Beam",
+                "Mega Kick",
+                "Mega Punch",
+                "Mimic",
+                "Rage",
+                "Reflect",
+                "Rest",
+                "Seismic Toss",
+                "Skull Bash",
+                "Strength",
+                "Submission",
+                "Substitute",
+                "Surf",
+                "Tackle",
+                "Tail Whip",
+                "Take Down",
+                "Toxic",
+                "Water Gun",
+                "Withdraw"
+            ]
+        },
+        {
+            "no": 8,
+            "species": "Wartortle",
+            "type":
+            [
+                "Water"
+            ],
+            "base":
+            {
+                "HP": 59,
+                "Attack": 63,
+                "Defense": 80,
+                "SpAtk": 65,
+                "SpDef": 65,
+                "Speed": 58
+            },
+            "movepool":
+            [
+                "Bide",
+                "Bite",
+                "Blizzard",
+                "Body Slam",
+                "Bubble",
+                "Bubble Beam",
+                "Counter",
+                "Dig",
+                "Double-Edge",
+                "Double Team",
+                "Hydro Pump",
+                "Ice Beam",
+                "Mega Kick",
+                "Mega Punch",
+                "Mimic",
+                "Rage",
+                "Reflect",
+                "Rest",
+                "Seismic Toss",
+                "Skull Bash",
+                "Strength",
+                "Submission",
+                "Substitute",
+                "Surf",
+                "Tackle",
+                "Tail Whip",
+                "Take Down",
+                "Toxic",
+                "Water Gun",
+                "Withdraw"
+            ]
+        },
+        {
+            "no": 9,
+            "species": "Blastoise",
+            "type":
+            [
+                "Water"
+            ],
+            "base":
+            {
+                "HP": 79,
+                "Attack": 83,
+                "Defense": 100,
+                "SpAtk": 85,
+                "SpDef": 85,
+                "Speed": 78
+            },
+            "movepool":
+            [
+                "Bide",
+                "Bite",
+                "Blizzard",
+                "Body Slam",
+                "Bubble",
+                "Bubble Beam",
+                "Counter",
+                "Dig",
+                "Double-Edge",
+                "Double Team",
+                "Earthquake",
+                "Fissure",
+                "Hydro Pump",
+                "Hyper Beam",
+                "Ice Beam",
+                "Mega Kick",
+                "Mega Punch",
+                "Mimic",
+                "Rage",
+                "Reflect",
+                "Rest",
+                "Seismic Toss",
+                "Skull Bash",
+                "Strength",
+                "Submission",
+                "Substitute",
+                "Surf",
+                "Tackle",
+                "Tail Whip",
+                "Take Down",
+                "Toxic",
+                "Water Gun",
+                "Withdraw"
+            ]
         }
     ],
     "Moves":
     [
         {
             "name": "Absorb",
+            "category": "Special",
+            "type": "Grass",
             "power": 20,
             "accuracy": 100,
             "pp": 25,
-            "type": "Grass",
+            "priority": 0,
             "description": "A Grass-type attack. It adds half the HP it drained from the target to the attacker's HP.",
-            "effects":
+            "flags":
             [
-                "Absorption",
-                "Protectable"
+            ]
+        },
+        {
+            "name": "Growl",
+            "category": "Status",
+            "type": "Normal",
+            "accuracy": 100,
+            "pp": 40,
+            "priority": 0,
+            "description": "A move that lowers the target's Attack power. Can normally be used up to six times.",
+            "flags":
+            [
             ]
         },
         {
             "name": "Pound",
+            "category": "Physical",
+            "type": "Normal",
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "type": "Normal",
+            "priority": 0,
             "description": "A Normal-type attack. Slightly stronger than Tackle. Many Pokémon know this move.",
-            "effects":
+            "flags":
             [
-                "Protectable"
+            ]
+        },
+        {
+            "name": "Tackle",
+            "category": "Physical",
+            "type": "Normal",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "priority": 0,
+            "description": "A Normal-type attack. Many Pokémon know this attack right from the start.",
+            "flags":
+            [
             ]
         }
     ]
