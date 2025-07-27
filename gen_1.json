@@ -14,8 +14,9 @@
                 "HP": 45,
                 "Attack": 49,
                 "Defense": 49,
-                "SpAttack": 65,
-                "SpDefense": 65
+                "SpAtk": 65,
+                "SpDef": 65,
+                "Speed": 45
             },
             "movepool":
             [
@@ -23,6 +24,50 @@
                 "Body Slam",
                 "Cut",
                 "Double-Edge",
+                "Double Team",
+                "Growl",
+                "Growth",
+                "Leech Seed",
+                "Mega Drain",
+                "Mimic",
+                "Poison Powder",
+                "Rage",
+                "Razor Leaf",
+                "Reflect",
+                "Rest",
+                "Sleep Powder",
+                "Solar Beam",
+                "Substitute",
+                "Swords Dance",
+                "Tackle",
+                "Take Down",
+                "Toxic",
+                "Vine Whip"
+            ]
+        },
+        {
+            "no": 2,
+            "species": "Ivysaur",
+            "type":
+            [
+                "Grass",
+                "Poison"
+            ],
+            "base": 
+            {
+                "HP":	    60,
+                "Attack":	62,
+                "Defense":	63,
+                "SpAtk":	80,
+                "SpDef":	80,
+                "Speed":	60	
+            },
+            "movepool":
+            [
+                "Bide",
+                "Body Slam",
+                "Cut",
+                "Double_Edge",
                 "Double Team",
                 "Growl",
                 "Growth",
