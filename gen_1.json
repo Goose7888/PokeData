@@ -1,0 +1,76 @@
+{
+    "Pokemon":
+    [
+        {
+            "no": 1,
+            "species": "Bulbasaur",
+            "type": 
+            [
+                "Grass",
+                "Poison"
+            ],
+            "base":
+            {
+                "HP": 45,
+                "Attack": 49,
+                "Defense": 49,
+                "SpAttack": 65,
+                "SpDefense": 65
+            },
+            "movepool":
+            [
+                "Bide",
+                "Body Slam",
+                "Cut",
+                "Double-Edge",
+                "Double Team",
+                "Growl",
+                "Growth",
+                "Leech Seed",
+                "Mega Drain",
+                "Mimic",
+                "Poison Powder",
+                "Rage",
+                "Razor Leaf",
+                "Reflect",
+                "Rest",
+                "Sleep Powder",
+                "Solar Beam",
+                "Substitute",
+                "Swords Dance",
+                "Tackle",
+                "Take Down",
+                "Toxic",
+                "Vine Whip"
+            ]
+        }
+    ],
+    "Moves":
+    [
+        {
+            "name": "Absorb",
+            "power": 20,
+            "accuracy": 100,
+            "pp": 25,
+            "type": "Grass",
+            "description": "A Grass-type attack. It adds half the HP it drained from the target to the attacker's HP.",
+            "effects":
+            [
+                "Absorption",
+                "Protectable"
+            ]
+        },
+        {
+            "name": "Pound",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "type": "Normal",
+            "description": "A Normal-type attack. Slightly stronger than Tackle. Many Pokémon know this move.",
+            "effects":
+            [
+                "Protectable"
+            ]
+        }
+    ]
+}
